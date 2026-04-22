@@ -128,3 +128,7 @@ npm run test:e2e
 docker compose up --build
 ```
 
+Services:
+
+- `db`: PostgreSQL 16
+- `api`: FastAPI app on port `8000`
