@@ -1,5 +1,8 @@
 # IS601 Module 13
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rafaelwastaken/is601-module13/ci-cd.yml?branch=master)](https://github.com/rafaelwastaken/is601-module13/actions/workflows/ci-cd.yml)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/rafaelwastaken/is601-module13)](https://hub.docker.com/r/rafaelwastaken/is601-module13)
+
 JWT login/registration with FastAPI, client-side form validation, Playwright end-to-end tests, and Docker-based CI/CD.
 
 ## Project Structure
